@@ -27,10 +27,11 @@ generate-completion-1  | 🟠 starting the completion...
 generate-completion-1  | 🟢 starting the completion...
 ollama-service-1       | [GIN] 2025/04/14 - 15:26:14 | 200 | 37.710368392s |   192.168.128.3 | POST     "/v1/chat/completions"
 generate-completion-1  | Jean-Luc Picard is the captain of the USS Enterprise and one of the three founders of Starfleet. 
-He serves as the central character across several episodes of "Star Trek: The Next Generation" and has developed into a 
-beloved figure for many viewers over the years. Jean-Luc Picard was born on Corysta in Babelia, his childhood home being at 
-the Tenth sector Academy on Utopian-Principality, from which he graduated with honors. His parents were not mentioned during 
-my brief narrative of their deaths that occurred while he was a child.
+He serves as the central character across several episodes of "Star Trek: The Next Generation" 
+and has developed into a beloved figure for many viewers over the years. Jean-Luc Picard was 
+born on Corysta in Babelia, his childhood home being at the Tenth sector Academy on Utopian-Principality, 
+from which he graduated with honors. His parents were not mentioned during my brief narrative 
+of their deaths that occurred while he was a child.
 generate-completion-1  | 🔵 done!
 generate-completion-1 exited with code 0
 ```
