@@ -31,7 +31,7 @@ services:
         condition: service_completed_successfully
 
   download-local-llm:
-    image: curlimages/curl:8.12.1
+    image: curlimages/curl:8.6.0
     environment:
       - OLLAMA_BASE_URL=${OLLAMA_BASE_URL}
       - LLM_CHAT=${LLM_CHAT}
